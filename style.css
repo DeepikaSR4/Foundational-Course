@@ -1,0 +1,16 @@
+.my-nav{
+    background-color: rgb(242, 255, 172);  
+}
+.full{
+margin-top: 30px;
+}
+.footer{
+    position: absolute;
+    width:100%;
+    text-align: center;
+    background-color: gainsboro;
+    color:black;
+    margin-top:10px;
+    
+
+}
